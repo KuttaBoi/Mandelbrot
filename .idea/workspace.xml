@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf1b4210-ee3d-49e1-bc79-6555e782e625" name="Default Changelist" comment="name change">
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/Complex.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/Form1.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/Form1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/Form1.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/MandelbrotSet.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/Properties/Resources.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/Properties/Resources.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/Properties/Settings.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/Properties/Settings.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/bin/Debug/MandelbrotSet.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/bin/Debug/MandelbrotSet.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/bin/Debug/MandelbrotSet.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/obj/Debug/MandelbrotSet.Form1.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/obj/Debug/MandelbrotSet.Properties.Resources.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/obj/Debug/MandelbrotSet.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/obj/Debug/MandelbrotSet.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/obj/Debug/MandelbrotSet.csproj.GenerateResource.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/obj/Debug/MandelbrotSet.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/obj/Debug/MandelbrotSet.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MandelbrotSet/obj/Debug/MandelbrotSet.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nCTIYwmaF4TP2zptIJsuBL5vrj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Repositories/KuttaBoi/Aeroelasticidad" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Mandelbrot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf1b4210-ee3d-49e1-bc79-6555e782e625" name="Default Changelist" comment="" />
+      <created>1610892993668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610892993668</updated>
+    </task>
+    <task id="LOCAL-00001" summary="name change">
+      <created>1610911226206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610911226206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="name change">
+      <created>1610911337245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610911337245</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="name change" />
+    <option name="LAST_COMMIT_MESSAGE" value="name change" />
+  </component>
+</project>
