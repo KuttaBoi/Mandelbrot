@@ -1,2 +1,2 @@
-# Mandelbrot
- Mandelbrot set visualizer 
+# Mandelbrot Set Visualizer
+ Mandelbrot set visualizer in python and C#
